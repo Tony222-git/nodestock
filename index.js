@@ -1,3 +1,5 @@
+// Stock Market Portfolio App By John Elder Codemy.com
+
 const express = require('express');
 const app = express();
 //const serveStatic = require('serve-static')
